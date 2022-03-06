@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/praharsht9/praharshpay.git/static/css/main.9f6ad391.css",
+    "main.js": "/praharsht9/praharshpay.git/static/js/main.abc7eeeb.js",
+    "static/media/404.png": "/praharsht9/praharshpay.git/static/media/404.e6e698f196273f760884.png",
+    "index.html": "/praharsht9/praharshpay.git/index.html",
+    "main.9f6ad391.css.map": "/praharsht9/praharshpay.git/static/css/main.9f6ad391.css.map",
+    "main.abc7eeeb.js.map": "/praharsht9/praharshpay.git/static/js/main.abc7eeeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f6ad391.css",
+    "static/js/main.abc7eeeb.js"
+  ]
+}
